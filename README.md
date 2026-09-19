@@ -27,7 +27,7 @@
 | ---------------- | --------------------------------------------- |
 | Communication    | Discord, WhatsApp                             |
 | Documentation    | Notion, Google Docs                           |
-| Code Management  | GitHub, VS Code                               |
+| Code Management  | GitHub, VS Code, IntelliJ IDEA                |
 | Task Tracking    | GitHub Projects, Notion                       |
 | Meeting Schedule | 4 days a week                                 |
 | Decision Making  | Team discussion and majority vote when needed |
