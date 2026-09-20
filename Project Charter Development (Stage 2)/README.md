@@ -97,28 +97,42 @@ These features may be considered for future versions if there is enough time and
 
 ## 5. High-Level Plan
 
-The project will be developed in several phases:
+The project will be completed over **12 weeks** across five stages, following the Portfolio Project Meetings Plan.
 
-| Phase                      | Main Activities                                                                                         |
-| -------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Phase 1 — Planning**     | Finalize requirements, define user stories, assign responsibilities, and create the technical plan.     |
-| **Phase 2 — Design**       | Design the mobile application, robot structure, system architecture, and Computer Vision approach.      |
-| **Phase 3 — Development**  | Develop the mobile application, backend, Computer Vision component, and robot prototype.                |
-| **Phase 4 — Integration**  | Connect the robot, Computer Vision system, mobile application, and backend.                             |
-| **Phase 5 — Testing**      | Test the system, identify problems, improve accuracy, and collect user feedback.                        |
-| **Phase 6 — Finalization** | Fix remaining issues, complete documentation, prepare the final demonstration, and present the project. |
+| Week        | Stage                                          | Main Activities / Deliverables                                                                                              |
+| ----------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Week 1**  | **Stage 1: Team Formation & Idea Development** | Form the team, discuss and evaluate project ideas, select the FocusRobot concept, and define the initial MVP.               |
+| **Week 2**  | **Stage 2: Project Charter Development**       | Define project objectives, stakeholders and roles, scope, risks and mitigation strategies, and the high-level project plan. |
+| **Week 3**  | **Stage 3: Technical Documentation**           | Create user stories, Figma mockups, high-level system architecture, and database design.                                    |
+| **Week 4**  | **Stage 3: Technical Documentation**           | Create sequence diagrams, API specifications, SCM and QA plans, and document technical justifications.                      |
+| **Week 5**  | **Stage 4: MVP Development & Execution**       | Set up the frontend, backend, database, GitHub repositories, project management board, and deployment. Begin development.   |
+| **Week 6**  | **Stage 4: MVP Development & Execution**       | Complete authentication and the main/home screen functionality where applicable.                                            |
+| **Week 7**  | **Stage 4: MVP Development & Execution**       | Complete approximately 50% of the main FocusRobot feature.                                                                  |
+| **Week 8**  | **Stage 4: MVP Development & Execution**       | Complete 100% of the main FocusRobot feature.                                                                               |
+| **Week 9**  | **Stage 4: MVP Development & Execution**       | Complete secondary features and integrate required third-party services.                                                    |
+| **Week 10** | **Stage 4: MVP Development & Execution**       | Perform unit and integration testing and complete optional features if time allows.                                         |
+| **Week 11** | **Stage 5: Project Closure**                   | Prepare the project poster, final presentation, and landing page.                                                           |
+| **Week 12** | **Stage 5: Project Closure**                   | Final project check-up, review remaining tasks, and complete final preparations.                                            |
 
-### High-Level Timeline
+### Project Stages
 
-| Period        | Focus                                                        |
-| ------------- | ------------------------------------------------------------ |
-| **Weeks 1–2** | Requirements, user stories, system design, and planning      |
-| **Weeks 3–5** | Computer Vision, backend, and mobile application development |
-| **Weeks 6–7** | Robot prototype and component integration                    |
-| **Weeks 8–9** | Testing and improvements                                     |
-| **Week 10**   | Final integration, documentation, and presentation           |
+**Stage 1 — Team Formation & Idea Development**
+Duration: 1 week
 
----
+**Stage 2 — Project Charter Development**
+Duration: 1 week
+
+**Stage 3 — Technical Documentation**
+Duration: 2 weeks
+
+**Stage 4 — MVP Development & Execution**
+Duration: 6 weeks
+
+**Stage 5 — Project Closure**
+Duration: 2 weeks
+
+**Total Duration: 12 weeks**
+
 
 ## Project Success Criteria
 
