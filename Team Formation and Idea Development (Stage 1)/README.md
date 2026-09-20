@@ -249,3 +249,10 @@ Stage 1 established the team's initial roles, collaboration strategy, brainstorm
 The team selected FocusRobot as a project that combines software, Computer Vision, hardware, and gamification while addressing the problem of maintaining focus during study and work.
 
 The next stage will focus on validating the problem, defining detailed requirements, and creating the technical plan needed to begin development.
+
+## Document Authors and Contributors
+
+- Ghaid 
+- Lama
+- Noura
+- Shahad
