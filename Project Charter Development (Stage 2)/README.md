@@ -26,7 +26,7 @@ The project aims to combine Computer Vision, mobile development, hardware, and g
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Project Team**                   | Designs, develops, tests, and documents the FocusRobot MVP.                                                                                    |
 | **Users**                          | Students, employees, and other people who want to improve their focus. They provide feedback about the usability and usefulness of the system. |
-| **Project Supervisor / Holberton** | Provides guidance and evaluates the project based on the project requirements and deliverables.                                                |
+| **Mentor** | Provides guidance and evaluates the project based on the project requirements and deliverables.                                                |
 
 ### Team Roles
 
