@@ -144,3 +144,11 @@ The FocusRobot MVP will be considered successful if the team can demonstrate a w
 * The user can view their focus-session progress through the mobile application.
 * The user can receive rewards after completing focus sessions.
 * The main components work together as one demonstrable MVP.
+
+
+## Document Authors and Contributors
+
+- Ghaid 
+- Lama
+- Noura
+- Shahad
