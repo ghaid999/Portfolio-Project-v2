@@ -8,13 +8,13 @@ FocusRobot is a physical robot paired with a mobile application that helps peopl
 
 The project aims to combine Computer Vision, mobile development, hardware, and gamification into a practical prototype that can help users build better focus habits.
 
-### SMART Objectives
+## SMART Objectives
 
-1. **Develop a working FocusRobot prototype within the project timeline** that can detect basic focus-related behaviors such as face presence, eye state, and head orientation during a focus session.
+1. **Real-Time Focus Detection:** Build a robot that uses a camera and Computer Vision to detect whether a user is Focused, Distracted, or Away during a focus session. The system should identify the correct state in at least 80% of test cases across 5 different users. This should be completed during the development phase of the project, so users can become aware of losing focus and get back on track.
 
-2. **Develop a mobile application** that allows users to start and manage focus sessions, view their session progress, and receive rewards for completing sessions.
+2. **Mobile App and Rewards:** Deliver a mobile app connected to the backend that lets users start and end a focus session with a timer, view a session summary (duration and percentage of focused time), and earn coins after each completed session, with all three core flows working without critical bugs before the integration phase ends. This gives users visible progress and motivation to keep building the habit.
 
-3. **Integrate the robot, Computer Vision system, and mobile application** into one working MVP that can be demonstrated at the end of the project.
+3. **Integrated MVP:** Integrate the 3D-printed robot, Computer Vision module, mobile app, and backend into one MVP that completes a full session (start, detection, robot feedback, reward, progress view) in at least 9 out of 10 test runs, and reaches an average usefulness rating of 4 out of 5 from at least 5 test users by the end of the testing phase, followed by a live demo at the final presentation. This proves the concept works end to end and that users find it valuable.
 
 ---
 
