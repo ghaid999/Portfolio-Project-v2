@@ -151,4 +151,4 @@ The FocusRobot MVP will be considered successful if the team can demonstrate a w
 - Ghaid 
 - Lama
 - Noura
-- Shahad
+- Shahd
