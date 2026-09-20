@@ -51,11 +51,6 @@ The following features and activities are included in the MVP:
 * A simple 3D-printed robot body.
 * Camera integration.
 * Basic Computer Vision for detecting focus-related behaviors.
-* Detection of basic states such as:
-
-  * Focused
-  * Distracted
-  * Away
 * A mobile application.
 * User focus sessions and timers.
 * Displaying focus-session information and progress.
@@ -69,6 +64,11 @@ The following features and activities are included in the MVP:
 
 The following features are outside the scope of the initial MVP:
 
+* Detection of basic states such as:
+
+  * Focused
+  * Distracted
+  * Away
 * Advanced human behavior recognition.
 * Full emotional recognition.
 * Voice-based personal assistant features.
