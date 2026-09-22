@@ -32,10 +32,10 @@ The project aims to combine Computer Vision, mobile development, hardware, and g
 
 | Team Member | Role                  | Main Responsibilities                                                                          |
 | ----------- | --------------------- | ---------------------------------------------------------------------------------------------- |
-| **Shahd**   | Project Manager       | Coordinate the team, organize meetings, track progress, and help manage project tasks.         |
-| **Gheed**   | Computer Vision / AI  | Develop the Computer Vision component and focus-detection logic.                               |
-| **Lama**    | Backend / Database    | Develop the backend, database, and communication between the application and other components. |
-| **Noura**   | Mobile App / Frontend | Develop the mobile application interface and user experience.                                  |
+| **Shahd**   | Project Manager / Computer Vision   | Coordinate the team, organize meetings, track progress, and help manage project tasks.         |
+| **Gheed**   | Frontend / AI  | Develop the Computer Vision component and focus-detection logic.                               |
+| **Lama**    | Backend / Testing    | Develop the backend, database, and communication between the application and other components. |
+| **Noura**   | Backend / Database | Develop the mobile application interface and user experience.                                  |
 
 The team will collaborate through GitHub, project management tools, regular meetings, and shared documentation.
 
@@ -88,8 +88,7 @@ These features may be considered for future versions if there is enough time and
 | Risk                               | Potential Impact                                                            | Mitigation Strategy                                                                                                                         |
 | ---------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Computer Vision accuracy**       | The robot may incorrectly detect whether the user is focused or distracted. | Start with simple and measurable behaviors such as face presence and head orientation. Test the system with different users and conditions. |
-| **Hardware integration problems**  | Hardware issues could delay development and testing.                        | Use simple hardware components and test each component separately before integration.                                                       |
-| **Limited development time**       | The team may not complete all planned features.                             | Prioritize the core MVP and implement additional features only if time allows.                                                              |
+| **Hardware integration problems**  | Hardware issues could delay development and testing.                        | Use simple hardware components and test each component separately before integration.                                                                                                                 |
 | **Integration between components** | The robot, mobile application, and backend may not communicate correctly.   | Define interfaces early and test communication between components throughout development.                                                   |
 | **Limited hardware resources**     | The team may face limitations with available components or equipment.       | Build a simple prototype using readily available components and avoid unnecessary hardware features.                                        |
 
